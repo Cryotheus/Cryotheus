@@ -1,6 +1,6 @@
 <div id="header" align="center">
 	<h1>Cryotheum</h1>
-	<a href="https://discord.gg/WMeCsQhakH"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=555555&style=flat" alt="Discord"></a>
+	<a href="https://discord.gg/WMeCsQhakH"><img src="https://img.shields.io/discord/785233414374686720?label=Discord&logo=discord" alt="Discord"></a>
 	<a href="https://github.com/Cryotheus/pyrition_2"><img src="https://komarev.com/ghpvc/?username=Cryotheus&color=orange"></a>
 	<p><b>Whoa</b>... that's the first time I centered a div...</p>
 </div>
