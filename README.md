@@ -23,7 +23,7 @@ Competency: **Mastered** > **Competent** > **Capable** > **Learning** > **Famili
 | Expression 2  | Mastered   | Programming language written in Garry's Mod Lua                   |
 | HLSL          | Learning   |                                                                   |
 | Lua           | Mastered   |                                                                   |
-| Python 3      | Competent  | Might look into [Mojo](/modularml/mojo)                           |
+| Python 3      | Competent  | Might look into [Mojo](https://github.com/modularml/mojo)         |
 | Rust          | Competent  |                                                                   |
 | SourcePawn    | Capable    | Plugins for SourceMod servers, it's a C++ like scripting language |
 | TypeScript    | Competent  | Also know JavaScript, but prefer TypeScript as types are explicit |
